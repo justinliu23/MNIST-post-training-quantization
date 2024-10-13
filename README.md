@@ -1,8 +1,6 @@
 # MNIST-post-training-quantization
 
 
-# Neural Network Quantization
-
 This repository contains an implementation of post-training weight quantization for neural networks, focusing on compressing 32-bit floating-point weights to 8-bit integers, significantly reducing model size (~4x) while maintaining minimal accuracy loss. The project was developed as part of Harvard's graduate CS 2420 course (Computing at Scale, Fall 2024).
 
 ## Project Overview
